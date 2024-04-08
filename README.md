@@ -1,7 +1,7 @@
 <h1>Hi, there👋</h1>
 
 <!-- snake img -->
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+<!-- <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /> -->
 
 <h2>I'm Muhamad Matin Anugrah Pujayanto</h3>
 

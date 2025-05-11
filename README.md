@@ -14,10 +14,10 @@
 
 
 <!-- Skill -->  
-<h1 align="center">My Tech👨🏻‍💻</h1>
+<!-- <h1 align="center">My Tech👨🏻‍💻</h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vue,nuxtjs,php,laravel,git,github,gitlab&perline=8" />
-</p>
+</p> -->
 
 <!-- clicked -->
 <div align="center">

@@ -38,7 +38,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MuhamadMatin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- snake img -->
-<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+![snake gif](https://github.com/MuhamadMatin/MuhamadMatin/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhamadMatin&icon=9&color=4)](https://visitcount.itsvg.in)

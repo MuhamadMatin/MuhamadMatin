@@ -1,13 +1,11 @@
-<h1>Hi, there👋</h1>
+<h1>Hi👋, I'm Muhamad Matin Anugrah Pujayanto <br /> Call me Matin</h1>
 
-<h2>I'm Muhamad Matin Anugrah Pujayanto</h2>
-<h3>Call me Matin</h3>
-
-<!-- intro -->
+<!-- intro 
 - 🌏 I’m based on Surabaya, Indonesia
 - 🔭 I’m currently working as freelance on my own 
 - 🌱 I’m currently software engineering in **Vocational School 17 Agustus 1945, Surabaya**
 - 🤝 I'm open to collaborating on any Project
+-->
 
 <!-- Skill -->  
 <!-- <h1 align="center">My Tech👨🏻‍💻</h1>

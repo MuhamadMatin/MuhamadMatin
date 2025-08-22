@@ -1,4 +1,4 @@
-<h1>Hi👋 there <br /> Call me Matin</h1>
+<h1>Hi👋 <br /> Call me Matin</h1>
 
 <!-- intro 
 - 🌏 I’m based on Surabaya, Indonesia

@@ -19,7 +19,7 @@
 <div align="center">
    <img src="https://nirzak-streak-stats.vercel.app/?user=MuhamadMatin&theme=dark&hide_border=false" width="55%" /></br>
   <img src="https://github-readme-stats.vercel.app/api?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="39%" />
 </div>
 
 # 💻 Tech Stack:

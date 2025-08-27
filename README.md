@@ -15,10 +15,8 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=MuhamadMatin&theme=dark&hide_border=false" width="55%" /></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="39%" />
-  
-  ![](https://github-profile-trophy.vercel.app/?username=MuhamadMatin&theme=dark&no-frame=false&no-bg=true&margin-w=4)
   <img src="https://github-contributor-stats.vercel.app/api?username=MuhamadMatin&limit=5&theme=dark&combine_all_yearly_contributions=true" width="45%" />
 </div>
 

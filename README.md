@@ -14,8 +14,8 @@
 </p> -->
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhamadMatin&theme=dark&hide_border=false" width="55%" /></br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true" width="50%" />
+  <img src="https://streak-stats.demolab.com/?user=MuhamadMatin&theme=dark&hide_border=false" width="55%" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadMatin&theme=dark&hide_border=false&show_icons=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadMatin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="39%" />
 </div>
 
@@ -28,18 +28,20 @@
 <div align="center">
 
 ## 🌐 Connect with Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-matin-anugrah-pujayanto)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/muhamad-matin-anugrah-pujayanto)
 
 </div>
 
 <!-- snake img -->
 <div align="center">
-  
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-  
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg?raw=true)
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MuhamadMatin&icon=9&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhamadMatin&style=flat-square&color=blue)](https://github.com/MuhamadMatin)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
